@@ -1,5 +1,4 @@
 # BridgeLabz-SIPP-Training
-# BridgeLabz-SIPP-Training
 
 This repository contains Java training material developed as part of the **BridgeLabz SIPP Program**. The repository is organized into four branches, each focusing on a core area of Java development:
 
@@ -58,22 +57,7 @@ The `DSA` branch focuses on **Data Structures and Algorithms** using Java. It em
 
 ---
 
-### 🔹 4. Generics&Packages
 
-The `Generics&Packages` branch covers advanced concepts that improve **code reusability, type safety, and modularity** in Java applications.
-
-**Topics Covered:**
-- Generic Classes and Methods
-- Bounded Type Parameters
-- Wildcards (`? extends T`, `? super T`)
-- Generic Constructors
-- Type Erasure and its Implications
-- Java Packages and Access Modifiers
-- Creating and Using Custom Packages
-- Composition over Inheritance
-- Real-world examples of Java Generics
-
----
 
 ## ✅ How to Use
 
